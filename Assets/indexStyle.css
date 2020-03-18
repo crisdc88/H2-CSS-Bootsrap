@@ -2,9 +2,24 @@
 #cont1{
     margin-bottom: 3%;
 }
+
+#hdrAboutMe{
+    padding-top: 5%;
+}
+
 #image{
-margin-right: 2%;
-width: 30%;
+margin-right: 5%;
+width: 40%;
 float: left;
 }
+
+@media screen and (max-width: 650px) {
+  #image{
+      clear: both;
+      width: 100%;
+      padding-bottom: 5%;
+      
+  }
+  }
+
 
