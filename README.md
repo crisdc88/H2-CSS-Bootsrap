@@ -6,7 +6,7 @@ This is projects illustrates the use of bootstrap and semantic HTML.  I used dif
 
 Where is the project?
 
->-[github repository: ](https://github.com/crisdc88/H1-codeRefactor/)
+>-[github repository:](https://github.com/crisdc88/H1-codeRefactor/)
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ Where is the project?
 
 ## Deployed Link
 
->[url: ](https://crisdc88.github.io/H2-CSS-Bootstrap/)
+>[url:](https://crisdc88.github.io/H2-CSS-Bootstrap/)
 
 ## Code block
 
@@ -51,8 +51,8 @@ Where is the project?
 ## Author
 
 D. Cristina Terry.
-*[GitHub : ](https://github.com/crisdc88/)
-*[linkedIn: ](www.linkedin.com/in/dcristinaterry)
+*[GitHub :](https://github.com/crisdc88/)
+*[linkedIn:](www.linkedin.com/in/dcristinaterry)
 
 ## LIcense
 
