@@ -1,4 +1,4 @@
-# hmw2 - CSS-BOOTSTRAP
+# HOMEWORK 2 - CSS-BOOTSTRAP
 
 This is projects illustrates the use of bootstrap and semantic HTML.  I used different Bootstrap components such as nav, card, forms, and grid.
 
@@ -6,21 +6,21 @@ This is projects illustrates the use of bootstrap and semantic HTML.  I used dif
 
 Where is the project?
 
->-[github repository:](https://github.com/crisdc88/H1-codeRefactor/)
+>[github repository](https://github.com/crisdc88/H1-codeRefactor/)
 
 ## Prerequisites
 
->What do I need to run it?
+>What do I need to run it?  
 >You will only need Internet access.
 
 ## Built With
 
->-HTML
->-CSS
+*HTML
+*CSS
 
 ## Deployed Link
 
->[url:](https://crisdc88.github.io/H2-CSS-Bootstrap/)
+>[deployed URL:](https://crisdc88.github.io/H2-CSS-Bootstrap/)
 
 ## Code block
 
@@ -51,9 +51,10 @@ Where is the project?
 ## Author
 
 D. Cristina Terry.
-*[GitHub :](https://github.com/crisdc88/)
-*[linkedIn:](www.linkedin.com/in/dcristinaterry)
+GitHub: [https://github.com/crisdc88/](https://github.com/crisdc88/),
 
-## LIcense
+LinkedIn: [www.linkedin.com/in/dcristinaterry](www.linkedin.com/in/dcristinaterry)
+
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
