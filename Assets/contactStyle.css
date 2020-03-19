@@ -1,0 +1,8 @@
+label{
+    color: gray;
+}
+.btn-primary {
+    color: #fff;
+    background-color: mediumaquamarine;
+    border-color: mediumaquamarine;
+}

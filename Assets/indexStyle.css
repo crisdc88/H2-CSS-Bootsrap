@@ -2,7 +2,6 @@ body{
     background-color: rgb(235, 235, 235);
 }
 
-
 #cont1{
     background-color: white;
     overflow: auto;
@@ -14,16 +13,15 @@ a{
 
 
 #secondPart{
-    margin-top: 3%;
-    
+    margin-top: 2%;   
+    margin-bottom: 10%;
+
+    background-color: rgb(235, 235, 235)
 }
 .clearPad{
     padding: 0;
 }
-section{
-    background-color: rgb(235, 235, 235);
-  
-}
+
 header h1{
     background-color: mediumaquamarine;
     width: 40%;
@@ -40,7 +38,7 @@ section h1{
     color: mediumaquamarine;
 }
 
-#image{
+#imageIndex{
 margin-right: 5%;
 width: 40%;
 float: left;
@@ -59,16 +57,13 @@ footer {
 }
 
 @media screen and (max-width: 900px) {
-  #image{
+  #imageIndex{
       clear: both;
       width: 100%;
       padding-bottom: 5%;
       
   }
-  /* #colName{
-      background-color: mediumaquamarine;
-     
-  } */
+
   header h1{
       text-align: center;
       width: 100%;
