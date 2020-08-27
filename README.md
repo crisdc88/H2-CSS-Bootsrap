@@ -15,8 +15,9 @@ Where is the project?
 
 ## Built With
 
-*HTML
-*CSS
+* HTML
+* CSS
+* Bootstrap
 
 ## Deployed Link
 
