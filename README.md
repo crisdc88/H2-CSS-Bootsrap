@@ -1,4 +1,4 @@
-# HOMEWORK 2 - CSS-BOOTSTRAP
+# H2 - CSS-BOOTSTRAP
 
 This is projects illustrates the use of bootstrap and semantic HTML.  I used different Bootstrap components such as nav, card, forms, and grid.
 
@@ -20,7 +20,7 @@ Where is the project?
 
 ## Deployed Link
 
->[deployed URL:](https://crisdc88.github.io/H2-CSS-Bootstrap/)
+>[deployed URL: https://dcristinaterry.github.io/H2-CSS-Bootstrap/](https://dcristinaterry.github.io/H2-CSS-Bootstrap/)
 
 ## Code block
 
